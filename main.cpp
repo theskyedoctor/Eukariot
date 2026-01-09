@@ -37,7 +37,7 @@ SDL_Surface* gScreenSurface{ nullptr };
 //The image we will load and show on the screen
 SDL_Surface* gHelloWorld{ nullptr };
 
-int main( int argc, char *args[])
+int main()
 {
     //Final exit code
     int exitCode{ 0 };
