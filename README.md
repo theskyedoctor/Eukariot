@@ -1,5 +1,11 @@
 # Eukariot
 
 
+build from source instructions (on linux):<br>
+mkdir build<br>
+cd build <br>
+cmake .. <br>
+make <br>
+./Eukariot <br>
 
-not entirely sure how to install it yet, will let you know when I figure it out.
+done :3
